@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "archivo": "audio_1.mp3",
+    "hablante": "Integrante 1",
+    "condicion": "sin ruido",
+    "dijo": "¿Cuál es la diferencia entre azúcares totales y azúcares añadidos en la tabla de información nutricional de un alimento?",
+    "duracion_s": null,
+    "transcripcion": "cuál es la diferencia entre azúcares totales y azúcares añadidos en la tabla de información nutricional de un alimento",
+    "wer": 0.0,
+    "respuesta": "**Azúcares totales** = suma de todos los azúcares presentes en el alimento, tanto los naturales (como los de la fruta o la leche) como los añadidos.\n\n**Azúcares añadidos** = solo los que se incorporaron durante el procesamiento (azúcar, miel, jarabes, concentrados de fruta, etc.).\n\nEn resumen: totales = naturales + añadidos. Los añadidos son los que más conviene vigilar, ya que no aportan nutrientes y su exceso se asocia a obesidad, diabetes y enfermedades cardiovasculares.",
+    "error": ""
+  },
+  {
+    "n": 2,
+    "archivo": "audio_2.mp3",
+    "hablante": "Integrante 2",
+    "condicion": "sin ruido",
+    "dijo": "Si una porción de un producto tiene ciento treinta y nueve miligramos de sodio, ¿se considera un alimento alto o bajo en sodio?",
+    "duracion_s": null,
+    "transcripcion": "Si una porción de un producto tiene 139 miligramos de sodio, se considera un alimento alto o bajo en sodio.",
+    "wer": 0.174,
+    "respuesta": "Con **139 mg de sodio por porción**, el alimento se considera **bajo en sodio**, ya que el límite para esa clasificación es ≤ 140 mg por porción.\n\nPara referencia:\n- **Bajo en sodio:** ≤ 140 mg\n- **Alto en sodio:** ≥ 400 mg\n\nAsí que 139 mg queda justo por debajo del umbral de \"bajo\".",
+    "error": ""
+  },
+  {
+    "n": 3,
+    "archivo": "audio_3.mp3",
+    "hablante": "Integrante 1",
+    "condicion": "sin ruido",
+    "dijo": "¿Cómo puedo calcular las calorías por porción si conozco los gramos de carbohidratos totales, proteínas y grasas totales?",
+    "duracion_s": null,
+    "transcripcion": "cómo puedo calcular las calorías por porción si conozco los gramos de carbohidratos totales proteínas y grasas totales",
+    "wer": 0.0,
+    "respuesta": "Usa la fórmula:\n\n**Calorías = (g carbohidratos × 4) + (g proteínas × 4) + (g grasas × 9)**\n\nEjemplo: si una porción tiene 30 g de carbohidratos, 10 g de proteína y 5 g de grasa:\n(30×4) + (10×4) + (5×9) = 120 + 40 + 45 = **205 kcal**\n\nNota: el alcohol aporta 7 kcal/g, pero no suele aparecer en etiquetas de alimentos.",
+    "error": ""
+  },
+  {
+    "n": 4,
+    "archivo": "audio_4.mp3",
+    "hablante": "Integrante 2",
+    "condicion": "con ruido",
+    "dijo": "¿Qué significa el porcentaje de valor diario en una etiqueta nutricional y por qué cambia entre la columna por cien gramos y la columna por porción?",
+    "duracion_s": null,
+    "transcripcion": "¿Qué significa el porcentaje de valor diario en una etiqueta nutricional y por qué cambia entre la columna por 100 gramos y la columna por porción?",
+    "wer": 0.038,
+    "respuesta": "El **% Valor Diario (%VD)** indica qué proporción de la cantidad diaria recomendada de un nutriente aporta esa cantidad del alimento (basada en una dieta de 2,000 kcal).\n\nCambia entre columnas porque el %VD se calcula sobre la **cantidad real de nutriente presente** en esa porción. Si la porción es de 30 g, hay menos grasa, azúcar, etc. que en 100 g, por lo que el %VD será menor. Es simplemente una proporción: a más gramos, más nutriente, mayor %VD.",
+    "error": ""
+  }
+]

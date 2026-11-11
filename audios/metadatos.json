@@ -1,0 +1,26 @@
+[
+  {
+    "archivo": "audio_1.mp3",
+    "hablante": "Integrante 1",
+    "condicion": "sin ruido",
+    "dijo": "¿Cuál es la diferencia entre azúcares totales y azúcares añadidos en la tabla de información nutricional de un alimento?"
+  },
+  {
+    "archivo": "audio_2.mp3",
+    "hablante": "Integrante 2",
+    "condicion": "sin ruido",
+    "dijo": "Si una porción de un producto tiene ciento treinta y nueve miligramos de sodio, ¿se considera un alimento alto o bajo en sodio?"
+  },
+  {
+    "archivo": "audio_3.mp3",
+    "hablante": "Integrante 1",
+    "condicion": "sin ruido",
+    "dijo": "¿Cómo puedo calcular las calorías por porción si conozco los gramos de carbohidratos totales, proteínas y grasas totales?"
+  },
+  {
+    "archivo": "audio_4.mp3",
+    "hablante": "Integrante 2",
+    "condicion": "con ruido",
+    "dijo": "¿Qué significa el porcentaje de valor diario en una etiqueta nutricional y por qué cambia entre la columna por cien gramos y la columna por porción?"
+  }
+]
