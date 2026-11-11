@@ -1,3 +1,5 @@
+#Este Script fue usado para la pregunta de la imagen_2.png y para provar el error provocado 
+#con el archivo de /imagenes/error.png
 from pathlib import Path
 from utils.load_model import cargar_llm
 from dotenv import load_dotenv
